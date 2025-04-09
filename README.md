@@ -1,2 +1,2 @@
 # qweqweqwe
-to moje pierwsze gitowanko
+a jednak to moje drugie gitowanko
